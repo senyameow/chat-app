@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fasthand&family=Hanken+Grotesk:ital,wght@0,100;0,300;0,600;0,700;1,400&family=Montserrat:wght@300;400&family=Nunito:wght@300&family=PT+Sans&family=Poppins:wght@300;400&family=Quicksand:wght@300;400;500;600;700&family=Roboto+Mono:wght@400;500;600;700&family=Rubik:wght@300;400;600;700&family=Ysabeau+Infant:wght@300;400;500;600;700&family=Ysabeau+SC:wght@300&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
